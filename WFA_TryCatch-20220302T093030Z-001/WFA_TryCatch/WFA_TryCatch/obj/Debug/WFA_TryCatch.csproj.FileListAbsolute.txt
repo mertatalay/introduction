@@ -1,0 +1,20 @@
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_TryCatch\WFA_TryCatch\bin\Debug\WFA_TryCatch.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_TryCatch\WFA_TryCatch\bin\Debug\WFA_TryCatch.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_TryCatch\WFA_TryCatch\bin\Debug\WFA_TryCatch.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.Form1.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\bin\Debug\WFA_TryCatch.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\bin\Debug\WFA_TryCatch.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\bin\Debug\WFA_TryCatch.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_TryCatch-20220302T093030Z-001\WFA_TryCatch\WFA_TryCatch\obj\Debug\WFA_TryCatch.pdb

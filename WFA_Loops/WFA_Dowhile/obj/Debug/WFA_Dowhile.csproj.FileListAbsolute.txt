@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\bin\Debug\WFA_Dowhile.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\bin\Debug\WFA_Dowhile.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\bin\Debug\WFA_Dowhile.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\obj\Debug\WFA_Dowhile.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\obj\Debug\WFA_Dowhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\obj\Debug\WFA_Dowhile.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\obj\Debug\WFA_Dowhile.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\obj\Debug\WFA_Dowhile.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\obj\Debug\WFA_Dowhile.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\obj\Debug\WFA_Dowhile.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Dowhile\obj\Debug\WFA_Dowhile.Form1.resources

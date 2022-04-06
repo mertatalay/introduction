@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\bin\Debug\WFA_Mevsim.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\bin\Debug\WFA_Mevsim.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\bin\Debug\WFA_Mevsim.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\obj\Debug\WFA_Mevsim.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\obj\Debug\WFA_Mevsim.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\obj\Debug\WFA_Mevsim.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\obj\Debug\WFA_Mevsim.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\obj\Debug\WFA_Mevsim.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\obj\Debug\WFA_Mevsim.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\obj\Debug\WFA_Mevsim.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Mevsim\WFA_Mevsim\obj\Debug\WFA_Mevsim.pdb

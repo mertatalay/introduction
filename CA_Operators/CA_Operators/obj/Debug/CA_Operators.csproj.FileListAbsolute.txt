@@ -1,0 +1,8 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Operators\CA_Operators\bin\Debug\CA_Operators.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Operators\CA_Operators\bin\Debug\CA_Operators.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Operators\CA_Operators\bin\Debug\CA_Operators.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Operators\CA_Operators\obj\Debug\CA_Operators.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Operators\CA_Operators\obj\Debug\CA_Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Operators\CA_Operators\obj\Debug\CA_Operators.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Operators\CA_Operators\obj\Debug\CA_Operators.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Operators\CA_Operators\obj\Debug\CA_Operators.pdb

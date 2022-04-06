@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\bin\Debug\WFA_Arackayit.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\bin\Debug\WFA_Arackayit.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\bin\Debug\WFA_Arackayit.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\obj\Debug\WFA_Arackayit.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\obj\Debug\WFA_Arackayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\obj\Debug\WFA_Arackayit.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\obj\Debug\WFA_Arackayit.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\obj\Debug\WFA_Arackayit.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\obj\Debug\WFA_Arackayit.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\obj\Debug\WFA_Arackayit.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Arackayit\WFA_Arackayit\obj\Debug\WFA_Arackayit.pdb

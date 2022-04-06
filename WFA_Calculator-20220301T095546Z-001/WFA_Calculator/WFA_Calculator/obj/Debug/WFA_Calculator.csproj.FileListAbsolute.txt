@@ -1,0 +1,21 @@
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\01.03\WFA_Calculator\WFA_Calculator\bin\Debug\WFA_Calculator.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\01.03\WFA_Calculator\WFA_Calculator\bin\Debug\WFA_Calculator.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\01.03\WFA_Calculator\WFA_Calculator\bin\Debug\WFA_Calculator.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\01.03\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.Form1.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\01.03\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\01.03\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\01.03\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\01.03\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\01.03\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\bin\Debug\WFA_Calculator.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\bin\Debug\WFA_Calculator.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\bin\Debug\WFA_Calculator.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Calculator-20220301T095546Z-001\WFA_Calculator\WFA_Calculator\obj\Debug\WFA_Calculator.Form2.resources

@@ -1,0 +1,8 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Convert\CA_Convert\bin\Debug\CA_Convert.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Convert\CA_Convert\bin\Debug\CA_Convert.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Convert\CA_Convert\bin\Debug\CA_Convert.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Convert\CA_Convert\obj\Debug\CA_Convert.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Convert\CA_Convert\obj\Debug\CA_Convert.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Convert\CA_Convert\obj\Debug\CA_Convert.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Convert\CA_Convert\obj\Debug\CA_Convert.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_Convert\CA_Convert\obj\Debug\CA_Convert.pdb

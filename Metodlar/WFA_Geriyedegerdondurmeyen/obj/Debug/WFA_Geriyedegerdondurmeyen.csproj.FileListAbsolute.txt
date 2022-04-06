@@ -1,0 +1,12 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\bin\Debug\WFA_Geriyedegerdondurmeyen.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\bin\Debug\WFA_Geriyedegerdondurmeyen.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\bin\Debug\WFA_Geriyedegerdondurmeyen.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\obj\Debug\WFA_Geriyedegerdondurmeyen.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\obj\Debug\WFA_Geriyedegerdondurmeyen.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\obj\Debug\WFA_Geriyedegerdondurmeyen.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\obj\Debug\WFA_Geriyedegerdondurmeyen.Form2.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\obj\Debug\WFA_Geriyedegerdondurmeyen.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\obj\Debug\WFA_Geriyedegerdondurmeyen.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\obj\Debug\WFA_Geriyedegerdondurmeyen.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\obj\Debug\WFA_Geriyedegerdondurmeyen.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdondurmeyen\obj\Debug\WFA_Geriyedegerdondurmeyen.pdb

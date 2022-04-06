@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\bin\Debug\WFA_CalculatorTryCatch.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\bin\Debug\WFA_CalculatorTryCatch.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\bin\Debug\WFA_CalculatorTryCatch.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.pdb

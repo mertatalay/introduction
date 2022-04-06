@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\bin\Debug\WFA_Labirent.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Labirent\WFA_Labirent\obj\Debug\WFA_Labirent.pdb

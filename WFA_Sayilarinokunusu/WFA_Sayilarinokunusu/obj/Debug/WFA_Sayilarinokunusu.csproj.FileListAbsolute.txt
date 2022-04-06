@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\bin\Debug\WFA_Sayilarinokunusu.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\bin\Debug\WFA_Sayilarinokunusu.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\bin\Debug\WFA_Sayilarinokunusu.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\obj\Debug\WFA_Sayilarinokunusu.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\obj\Debug\WFA_Sayilarinokunusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\obj\Debug\WFA_Sayilarinokunusu.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\obj\Debug\WFA_Sayilarinokunusu.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\obj\Debug\WFA_Sayilarinokunusu.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\obj\Debug\WFA_Sayilarinokunusu.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\obj\Debug\WFA_Sayilarinokunusu.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sayilarinokunusu\WFA_Sayilarinokunusu\obj\Debug\WFA_Sayilarinokunusu.pdb

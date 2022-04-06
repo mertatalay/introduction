@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\bin\Debug\WFA_Topsektirme.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\bin\Debug\WFA_Topsektirme.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\bin\Debug\WFA_Topsektirme.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\obj\Debug\WFA_Topsektirme.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\obj\Debug\WFA_Topsektirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\obj\Debug\WFA_Topsektirme.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\obj\Debug\WFA_Topsektirme.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\obj\Debug\WFA_Topsektirme.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\obj\Debug\WFA_Topsektirme.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\obj\Debug\WFA_Topsektirme.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Topsektirme\WFA_Topsektirme\obj\Debug\WFA_Topsektirme.pdb

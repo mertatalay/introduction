@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\bin\Debug\WFA_AllButtons.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\bin\Debug\WFA_AllButtons.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\bin\Debug\WFA_AllButtons.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\obj\Debug\WFA_AllButtons.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\obj\Debug\WFA_AllButtons.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\obj\Debug\WFA_AllButtons.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\obj\Debug\WFA_AllButtons.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\obj\Debug\WFA_AllButtons.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\obj\Debug\WFA_AllButtons.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\obj\Debug\WFA_AllButtons.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_AllButtons\WFA_AllButtons\obj\Debug\WFA_AllButtons.pdb

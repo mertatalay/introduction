@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\bin\Debug\WFA_Kararyapilari.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\bin\Debug\WFA_Kararyapilari.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\bin\Debug\WFA_Kararyapilari.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\obj\Debug\WFA_Kararyapilari.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\obj\Debug\WFA_Kararyapilari.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\obj\Debug\WFA_Kararyapilari.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\obj\Debug\WFA_Kararyapilari.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\obj\Debug\WFA_Kararyapilari.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\obj\Debug\WFA_Kararyapilari.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\obj\Debug\WFA_Kararyapilari.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Kararyapilari\WFA_Kararyapilari\obj\Debug\WFA_Kararyapilari.pdb

@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\bin\Debug\WFA_karaktersayisi.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\bin\Debug\WFA_karaktersayisi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\bin\Debug\WFA_karaktersayisi.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\obj\Debug\WFA_karaktersayisi.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\obj\Debug\WFA_karaktersayisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\obj\Debug\WFA_karaktersayisi.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\obj\Debug\WFA_karaktersayisi.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\obj\Debug\WFA_karaktersayisi.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\obj\Debug\WFA_karaktersayisi.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\obj\Debug\WFA_karaktersayisi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_karaktersayisi\WFA_karaktersayisi\obj\Debug\WFA_karaktersayisi.pdb

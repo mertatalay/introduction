@@ -1,0 +1,7 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdonduren\obj\Debug\WFA_Geriyedegerdonduren.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdonduren\obj\Debug\WFA_Geriyedegerdonduren.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdonduren\obj\Debug\WFA_Geriyedegerdonduren.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdonduren\obj\Debug\WFA_Geriyedegerdonduren.Form2.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdonduren\obj\Debug\WFA_Geriyedegerdonduren.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdonduren\obj\Debug\WFA_Geriyedegerdonduren.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\Metodlar\WFA_Geriyedegerdonduren\obj\Debug\WFA_Geriyedegerdonduren.csproj.CoreCompileInputs.cache

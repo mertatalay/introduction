@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\bin\Debug\WFA_While.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\bin\Debug\WFA_While.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\bin\Debug\WFA_While.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\obj\Debug\WFA_While.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\obj\Debug\WFA_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\obj\Debug\WFA_While.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\obj\Debug\WFA_While.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\obj\Debug\WFA_While.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\obj\Debug\WFA_While.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\obj\Debug\WFA_While.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_While\obj\Debug\WFA_While.pdb

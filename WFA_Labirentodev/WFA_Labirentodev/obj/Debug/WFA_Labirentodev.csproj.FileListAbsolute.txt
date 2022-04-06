@@ -1,0 +1,11 @@
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\bin\Debug\WFA_Labirentodev.exe.config
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\bin\Debug\WFA_Labirentodev.exe
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\bin\Debug\WFA_Labirentodev.pdb
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\obj\Debug\WFA_Labirentodev.csproj.AssemblyReference.cache
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\obj\Debug\WFA_Labirentodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\obj\Debug\WFA_Labirentodev.Form1.resources
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\obj\Debug\WFA_Labirentodev.Properties.Resources.resources
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\obj\Debug\WFA_Labirentodev.csproj.GenerateResource.cache
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\obj\Debug\WFA_Labirentodev.csproj.CoreCompileInputs.cache
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\obj\Debug\WFA_Labirentodev.exe
+C:\Users\mert\source\repos\WFA_Labirentodev\WFA_Labirentodev\obj\Debug\WFA_Labirentodev.pdb

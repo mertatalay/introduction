@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\obj\Debug\WFA_Sampleforms.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\obj\Debug\WFA_Sampleforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\obj\Debug\WFA_Sampleforms.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\obj\Debug\WFA_Sampleforms.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\obj\Debug\WFA_Sampleforms.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\obj\Debug\WFA_Sampleforms.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\bin\Debug\WFA_Sampleforms.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\bin\Debug\WFA_Sampleforms.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\bin\Debug\WFA_Sampleforms.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\obj\Debug\WFA_Sampleforms.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Sampleforms\WFA_Sampleforms\obj\Debug\WFA_Sampleforms.pdb

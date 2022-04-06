@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\bin\Debug\WFA_Trycatch.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\bin\Debug\WFA_Trycatch.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\bin\Debug\WFA_Trycatch.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\obj\Debug\WFA_Trycatch.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\obj\Debug\WFA_Trycatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\obj\Debug\WFA_Trycatch.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\obj\Debug\WFA_Trycatch.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\obj\Debug\WFA_Trycatch.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\obj\Debug\WFA_Trycatch.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\obj\Debug\WFA_Trycatch.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Trycatch\WFA_Trycatch\obj\Debug\WFA_Trycatch.pdb

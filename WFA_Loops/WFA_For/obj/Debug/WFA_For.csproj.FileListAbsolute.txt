@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\bin\Debug\WFA_For.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\bin\Debug\WFA_For.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\bin\Debug\WFA_For.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\obj\Debug\WFA_For.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\obj\Debug\WFA_For.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\obj\Debug\WFA_For.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\obj\Debug\WFA_For.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\obj\Debug\WFA_For.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\obj\Debug\WFA_For.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\obj\Debug\WFA_For.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_For\obj\Debug\WFA_For.pdb

@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\bin\Debug\WFA_Carpimtablosu.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\bin\Debug\WFA_Carpimtablosu.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\bin\Debug\WFA_Carpimtablosu.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\obj\Debug\WFA_Carpimtablosu.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\obj\Debug\WFA_Carpimtablosu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\obj\Debug\WFA_Carpimtablosu.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\obj\Debug\WFA_Carpimtablosu.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\obj\Debug\WFA_Carpimtablosu.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\obj\Debug\WFA_Carpimtablosu.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\obj\Debug\WFA_Carpimtablosu.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Loops\WFA_Carpimtablosu\obj\Debug\WFA_Carpimtablosu.pdb

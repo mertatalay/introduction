@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\bin\Debug\WFA_bakiyeislemi.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\bin\Debug\WFA_bakiyeislemi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\bin\Debug\WFA_bakiyeislemi.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\obj\Debug\WFA_bakiyeislemi.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\obj\Debug\WFA_bakiyeislemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\obj\Debug\WFA_bakiyeislemi.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\obj\Debug\WFA_bakiyeislemi.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\obj\Debug\WFA_bakiyeislemi.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\obj\Debug\WFA_bakiyeislemi.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\obj\Debug\WFA_bakiyeislemi.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_bakiyeislemi\WFA_bakiyeislemi\obj\Debug\WFA_bakiyeislemi.pdb

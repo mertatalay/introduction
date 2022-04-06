@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\bin\Debug\WFA_Localandglobal.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\bin\Debug\WFA_Localandglobal.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\bin\Debug\WFA_Localandglobal.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\obj\Debug\WFA_Localandglobal.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\obj\Debug\WFA_Localandglobal.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\obj\Debug\WFA_Localandglobal.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\obj\Debug\WFA_Localandglobal.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\obj\Debug\WFA_Localandglobal.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\obj\Debug\WFA_Localandglobal.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\obj\Debug\WFA_Localandglobal.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Localandglobal\WFA_Localandglobal\obj\Debug\WFA_Localandglobal.pdb

@@ -1,0 +1,8 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_yemek\CA_yemek\bin\Debug\CA_yemek.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_yemek\CA_yemek\bin\Debug\CA_yemek.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_yemek\CA_yemek\bin\Debug\CA_yemek.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_yemek\CA_yemek\obj\Debug\CA_yemek.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_yemek\CA_yemek\obj\Debug\CA_yemek.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_yemek\CA_yemek\obj\Debug\CA_yemek.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_yemek\CA_yemek\obj\Debug\CA_yemek.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\CA_yemek\CA_yemek\obj\Debug\CA_yemek.pdb

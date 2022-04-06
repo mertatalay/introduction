@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\bin\Debug\WFA_Array.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\bin\Debug\WFA_Array.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\bin\Debug\WFA_Array.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\obj\Debug\WFA_Array.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\obj\Debug\WFA_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\obj\Debug\WFA_Array.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\obj\Debug\WFA_Array.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\obj\Debug\WFA_Array.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\obj\Debug\WFA_Array.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\obj\Debug\WFA_Array.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_Array\WFA_Array\obj\Debug\WFA_Array.pdb

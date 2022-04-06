@@ -1,0 +1,11 @@
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\bin\Debug\WFA_LoopKeywords.exe.config
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\bin\Debug\WFA_LoopKeywords.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\bin\Debug\WFA_LoopKeywords.pdb
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.csproj.AssemblyReference.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.csproj.SuggestedBindingRedirects.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.Form1.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.Properties.Resources.resources
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.csproj.GenerateResource.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.exe
+C:\Users\mert\Desktop\Bilge Adam\C#\WFA_LoopKeywords\WFA_LoopKeywords\obj\Debug\WFA_LoopKeywords.pdb
